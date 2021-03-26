@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567825067 source:e:\[graduation]\pat advanced\test\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
